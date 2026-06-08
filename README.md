@@ -17,12 +17,31 @@ Frontend Engineer | React Developer | AI-powered Web Applications
 
 ## 🚀 About Me
 
-* 💻 Frontend Engineer with experience building enterprise-grade applications
-* ⚛️ Specialized in React.js, TypeScript, Redux, and Material UI
-* 🤖 Worked on AI-powered recruitment and MLOps applications
-* 📊 Experienced in Data Visualization, APIs, and Dynamic Forms
-* 🧪 Familiar with Jest, React Testing Library, and automation workflows
-* 🌱 Currently exploring Selenium, Playwright, and AI-assisted testing
+```javascript
+const rc = {
+    role: "Frontend Engineer",
+    specialization: [
+        "React.js",
+        "TypeScript",
+        "Redux",
+        "AI-powered Applications"
+    ],
+    
+    experience: [
+        "Enterprise Recruitment Platforms",
+        "Machine Learning Operations",
+        "Data Annotation Systems",
+        "Low-code Platforms"
+    ],
+
+    currentlyLearning: [
+        "Selenium",
+        "Playwright",
+        "AI-assisted Testing"
+    ]
+};
+```
+
 
 ---
 
