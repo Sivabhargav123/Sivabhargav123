@@ -47,7 +47,6 @@ Frontend Engineer | React Developer | AI-powered Web Applications
 
 
 ---
-
 ## 📌 Featured Projects
 
 <table>
@@ -56,14 +55,11 @@ Frontend Engineer | React Developer | AI-powered Web Applications
 
 ### 🤖 Smart Recruiter Apps
 
-AI-powered recruitment platform with:
+<img src="./images/smart-recruiter.png" width="100%" />
 
-* Role Mapping
-* Resume Analysis
-* Joining Probability
-* Screening Workflows
+AI-powered recruitment platform with role mapping, resume analysis, and screening workflows.
 
-⚛️ React • TypeScript • Redux • MUI
+⚛️ React • TypeScript • Redux • Material UI
 
 </td>
 
@@ -71,14 +67,11 @@ AI-powered recruitment platform with:
 
 ### 🧠 Machine Learning Operations
 
-Enterprise MLOps platform with:
+<img src="./images/mlops.png" width="100%" />
 
-* File Explorer
-* Model Reviews
-* API Integrations
-* Visualization Dashboards
+Enterprise MLOps platform for model management, deployment, and visualization.
 
-⚛️ React • SCSS • TypeScript
+⚛️ React • TypeScript • SCSS
 
 </td>
 </tr>
@@ -88,12 +81,9 @@ Enterprise MLOps platform with:
 
 ### 🏷️ Data Annotation Platform
 
-Collaborative annotation system featuring:
+<img src="./images/annotation.png" width="100%" />
 
-* User Management
-* Unit Testing
-* Validation Workflows
-* React Context
+Collaborative annotation system with user management and validation workflows.
 
 ⚛️ React • Jest • RTL
 
@@ -103,14 +93,15 @@ Collaborative annotation system featuring:
 
 ### ⚡ iSymphony
 
-Low-code platform for modern application development with reusable components and secure workflows.
+<img src="./images/isymphony.png" width="100%" />
+
+Low-code platform for building scalable modern applications.
 
 ⚛️ React • Redux • JavaScript
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 📈 GitHub Stats
