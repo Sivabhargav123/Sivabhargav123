@@ -36,36 +36,66 @@ Frontend Engineer | React Developer | AI-powered Web Applications
 
 ## 📌 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🤖 Smart Recruiter Apps
 
 AI-powered recruitment platform with:
 
-* Rolemapper Tool
-* Talk to Resume
-* Joining Probability Tool
-* Screening & Shortlisting workflows
+* Role Mapping
+* Resume Analysis
+* Joining Probability
+* Screening Workflows
+
+⚛️ React • TypeScript • Redux • MUI
+
+</td>
+
+<td width="50%">
 
 ### 🧠 Machine Learning Operations
 
-End-to-end MLOps platform with:
+Enterprise MLOps platform with:
 
-* Custom file explorer
-* Model review interfaces
-* API integrations
-* Data visualization dashboards
+* File Explorer
+* Model Reviews
+* API Integrations
+* Visualization Dashboards
+
+⚛️ React • SCSS • TypeScript
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🏷️ Data Annotation Platform
 
-Collaborative ML annotation system with:
+Collaborative annotation system featuring:
 
-* User management
-* Unit testing
-* React Context architecture
-* Jest & React Testing Library
+* User Management
+* Unit Testing
+* Validation Workflows
+* React Context
+
+⚛️ React • Jest • RTL
+
+</td>
+
+<td width="50%">
 
 ### ⚡ iSymphony
 
-Low-code platform for building modern web/mobile applications with reusable components and dynamic validation workflows.
+Low-code platform for modern application development with reusable components and secure workflows.
+
+⚛️ React • Redux • JavaScript
+
+</td>
+</tr>
+</table>
 
 ---
 
