@@ -151,20 +151,17 @@ Low-code platform for building scalable modern applications.
 <a href="https://www.linkedin.com/in/siva-bhargav-gandikota/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
-
-   
+  
 
 <a href="https://github.com/Sivabhargav123" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="50" />
 </a>
 
-   
 
 <a href="mailto:gsiva52892@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="50" />
 </a>
 
-   
 
 <a href="https://gsivaportfolio.netlify.app/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vercel" width="50" />
