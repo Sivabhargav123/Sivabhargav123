@@ -50,11 +50,11 @@ Low-code platform for building modern applications with reusable components.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sivabhargav123&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivabhargav123&theme=tokyonight" />
 </p>
 
 ---
@@ -62,5 +62,5 @@ Low-code platform for building modern applications with reusable components.
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sivabhargav123&theme=tokyonight" />
 </p>
