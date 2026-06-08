@@ -107,12 +107,13 @@ Low-code platform for building scalable modern applications.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sivabhargav123&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sivabhargav123&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sivabhargav123&theme=tokyonight&hide_border=true" />
+
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sivabhargav123&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
