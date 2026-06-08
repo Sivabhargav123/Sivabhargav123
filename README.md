@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sivabhargav123/Sivabhargav123/main/banner.png" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Siva Bhargav Gandikota</h1>
 
 <h3 align="center">
