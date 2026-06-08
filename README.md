@@ -152,7 +152,6 @@ Low-code platform for building scalable modern applications.
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
   
-
 <a href="https://github.com/Sivabhargav123" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="50" />
 </a>
