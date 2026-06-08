@@ -5,17 +5,19 @@ Frontend Engineer | React Developer | AI-powered Web Applications
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=React+Developer;Frontend+Engineer;TypeScript+Developer;AI+Powered+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=React+Developer;Frontend+Engineer;TypeScript+Developer;AI+Powered+Applications;Building+Scalable+Enterprise+Solutions" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Frontend Engineer with React and TypeScript experience
-* ⚛️ Specialized in React.js, Redux, and Material UI
-* 🤖 Worked on AI-powered recruitment applications
-* 🧪 Learning Selenium and Playwright automation testing
+* 💻 Frontend Engineer with experience building enterprise-grade applications
+* ⚛️ Specialized in React.js, TypeScript, Redux, and Material UI
+* 🤖 Worked on AI-powered recruitment and MLOps applications
+* 📊 Experienced in Data Visualization, APIs, and Dynamic Forms
+* 🧪 Familiar with Jest, React Testing Library, and automation workflows
+* 🌱 Currently exploring Selenium, Playwright, and AI-assisted testing
 
 ---
 
@@ -31,30 +33,45 @@ Frontend Engineer | React Developer | AI-powered Web Applications
 
 ### 🤖 Smart Recruiter Apps
 
-AI-powered recruitment platform using React, TypeScript, Redux, Material UI, and APIs.
+AI-powered recruitment platform with:
+
+* Rolemapper Tool
+* Talk to Resume
+* Joining Probability Tool
+* Screening & Shortlisting workflows
 
 ### 🧠 Machine Learning Operations
 
-End-to-end application for managing machine learning models and visualizations.
+End-to-end MLOps platform with:
+
+* Custom file explorer
+* Model review interfaces
+* API integrations
+* Data visualization dashboards
 
 ### 🏷️ Data Annotation Platform
 
-Collaborative ML annotation system with React Context and unit testing.
+Collaborative ML annotation system with:
+
+* User management
+* Unit testing
+* React Context architecture
+* Jest & React Testing Library
 
 ### ⚡ iSymphony
 
-Low-code platform for building modern applications with reusable components.
+Low-code platform for building modern web/mobile applications with reusable components and dynamic validation workflows.
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivabhargav123&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sivabhargav123&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivabhargav123&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sivabhargav123&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -62,5 +79,15 @@ Low-code platform for building modern applications with reusable components.
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sivabhargav123&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sivabhargav123&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Sivabhargav123">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
